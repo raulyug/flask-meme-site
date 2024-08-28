@@ -15,7 +15,7 @@ The webpage automatically refreshes every 15 seconds to show a new meme, along w
 
 Clone the repository:
   
-    git clone https://github.com/yourusername/flask-meme-website.git
+    git clone https://github.com/raulyug/flask-meme-site.git
     cd flask-meme-website
 
 Set up a virtual environment (optional but recommended):
