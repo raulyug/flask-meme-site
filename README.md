@@ -31,7 +31,7 @@ Install the required dependencies:
 
 Run the Flask application:
   
-    py app.py
+    py meme_flask.py
   
 Access the application:
   
